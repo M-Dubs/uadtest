@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneTextScreen destroyOnExit="yes">
+    <Title>About</Title>
+    <Text>Yealink T56G XML demo
+
+Hosted using GitHub raw content.
+
+No PHP server required.
+
+Edit the repository files and reopen the menu to see changes.</Text>
+    <SoftKey index="1"><Label>Home</Label><URI>https://raw.githubusercontent.com/M-Dubs/uadtest/main/index.xml</URI></SoftKey>
+    <SoftKey index="4"><Label>Exit</Label><URI>SoftKey:Exit</URI></SoftKey>
+</YealinkIPPhoneTextScreen>

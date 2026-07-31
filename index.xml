@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneMenu destroyOnExit="yes">
+    <Title>Addooco XML Demo</Title>
+    <MenuItem><Prompt>XML Success Test</Prompt><URI>https://raw.githubusercontent.com/M-Dubs/uadtest/main/success.xml</URI></MenuItem>
+    <MenuItem><Prompt>Helpdesk Message</Prompt><URI>https://raw.githubusercontent.com/M-Dubs/uadtest/main/helpdesk.xml</URI></MenuItem>
+    <MenuItem><Prompt>Quick Dial Menu</Prompt><URI>https://raw.githubusercontent.com/M-Dubs/uadtest/main/directory.xml</URI></MenuItem>
+    <MenuItem><Prompt>About This Demo</Prompt><URI>https://raw.githubusercontent.com/M-Dubs/uadtest/main/about.xml</URI></MenuItem>
+    <SoftKey index="4"><Label>Exit</Label><URI>SoftKey:Exit</URI></SoftKey>
+</YealinkIPPhoneMenu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneTextScreen destroyOnExit="yes">
+    <Title>Addooco Helpdesk</Title>
+    <Text>Systems nominal.
+
+First Line Support:
+Ready for action.
+
+This is a static XML page served from GitHub.</Text>
+    <SoftKey index="1"><Label>Home</Label><URI>https://raw.githubusercontent.com/M-Dubs/uadtest/main/index.xml</URI></SoftKey>
+    <SoftKey index="2"><Label>Refresh</Label><URI>SoftKey:Refresh</URI></SoftKey>
+    <SoftKey index="4"><Label>Exit</Label><URI>SoftKey:Exit</URI></SoftKey>
+</YealinkIPPhoneTextScreen>

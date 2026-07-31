@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneDirectory destroyOnExit="yes">
+    <Title>Quick Dial</Title>
+    <DirectoryEntry><Name>Rich</Name><Telephone>2000</Telephone></DirectoryEntry>
+    <DirectoryEntry><Name>Russ</Name><Telephone>4002</Telephone></DirectoryEntry>
+    <DirectoryEntry><Name>Zoidberg</Name><Telephone>4033</Telephone></DirectoryEntry>
+    <DirectoryEntry><Name>Works 1</Name><Telephone>3051</Telephone></DirectoryEntry>
+    <DirectoryEntry><Name>Works 2</Name><Telephone>3052</Telephone></DirectoryEntry>
+    <SoftKey index="1"><Label>Home</Label><URI>https://raw.githubusercontent.com/M-Dubs/uadtest/main/index.xml</URI></SoftKey>
+    <SoftKey index="4"><Label>Exit</Label><URI>SoftKey:Exit</URI></SoftKey>
+</YealinkIPPhoneDirectory>

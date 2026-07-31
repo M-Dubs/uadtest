@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneTextScreen destroyOnExit="yes">
+    <Title>It Works!</Title>
+    <Text>If you can see this, XML works as a line key!!
+
+Your Yealink T56G loaded this screen directly from GitHub.</Text>
+    <SoftKey index="1"><Label>Home</Label><URI>https://raw.githubusercontent.com/M-Dubs/uadtest/main/index.xml</URI></SoftKey>
+    <SoftKey index="4"><Label>Exit</Label><URI>SoftKey:Exit</URI></SoftKey>
+</YealinkIPPhoneTextScreen>

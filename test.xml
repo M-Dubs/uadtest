@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneTextScreen>
-    <Title>XML Test</Title>
-    <Text>Hello from GitHub!</Text>
+    <Title>Addooco XML Test</Title>
+    <Text>If you can see this, XML works as a line key!!
+
+Hosted using GitHub.</Text>
 </YealinkIPPhoneTextScreen>

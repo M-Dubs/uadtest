@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneTextScreen destroyOnExit="yes">
+<YealinkIPPhoneTextScreen>
     <Title>XML Test</Title>
-    <Text>If you can see this, XML works as a line key!</Text>
-
-    <SoftKey index="1">
-        <Label>Refresh</Label>
-        <URI>SoftKey:Refresh</URI>
-    </SoftKey>
-
-    <SoftKey index="4">
-        <Label>Exit</Label>
-        <URI>SoftKey:Exit</URI>
-    </SoftKey>
+    <Text>Hello from GitHub!</Text>
 </YealinkIPPhoneTextScreen>
